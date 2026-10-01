@@ -1,0 +1,14 @@
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\bin\Debug\net10.0\SistemaCobranca.exe
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\bin\Debug\net10.0\SistemaCobranca.deps.json
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\bin\Debug\net10.0\SistemaCobranca.runtimeconfig.json
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\bin\Debug\net10.0\SistemaCobranca.dll
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\bin\Debug\net10.0\SistemaCobranca.pdb
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.AssemblyInfoInputs.cache
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.AssemblyInfo.cs
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.csproj.CoreCompileInputs.cache
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.dll
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\refint\SistemaCobranca.dll
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.pdb
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\SistemaCobranca.genruntimeconfig.cache
+C:\Users\renato\Desktop\PROGRAMAS EM C#\SistemaCobranca\obj\Debug\net10.0\ref\SistemaCobranca.dll
